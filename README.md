@@ -2,11 +2,11 @@
 👋 Hi, I’m Nativ<br>A fourth-year Software Engineering student and father of two boys. <br>Currently learning web and app development for fun.<br>Fun fact? I’ve mastered the art of coding with a background chorus of “Dad!”
 
 
-## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231E90FF.svg?logo=web&logoColor=white)](https://nativ-portfo.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23FFA500.svg?logo=suitcase&logoColor=white)](https://nativ-portfo.netlify.app/)
+
 
 
 # 💻 Tech Stack:
