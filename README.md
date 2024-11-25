@@ -5,7 +5,8 @@
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23FFA500.svg?logo=suitcase&logoColor=white)](https://nativ-portfo.netlify.app/)
+[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=orange&logo=globe&logoColor=white)](https://nativ-portfo.netlify.app/)
+
 
 
 
